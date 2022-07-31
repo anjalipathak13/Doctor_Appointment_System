@@ -64,3 +64,28 @@ Client-side
 
 # ER Diagram
 ![DB](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/Manage%20access%20-%20Google%20Chrome%207_31_2022%203_22_32%20PM.png?raw=true)
+
+# Screenshots
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h1.PNG?raw=true)
+Admin/Doctor Login
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h2.PNG?raw=true)
+Admin Dashboard
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h3.PNG?raw=true)
+Doctor Management
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h4.PNG?raw=true)
+Patient Management
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h5.PNG?raw=true)
+Appointment Management 
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h6.PNG?raw=true)
+Schedule 
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h7.PNG?raw=true)
+Book Appointment
+
+
+# Connect With Us
+## Team Name : Tech-Buzz
+<img src="https://user-images.githubusercontent.com/54896331/179391787-83182c0a-e276-4b5b-8208-f3d6050815af.jpg" width="50" height="50" align="left">LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
+Email : akshat.kodia@gmail.com<br/>
+
+<img src="https://user-images.githubusercontent.com/54896331/179391934-52621063-f641-43a6-a525-e3419e53fe4d.jpg" width="50" height="50" align="left">LinkedIn : https://www.linkedin.com/in/anjali-pathak-6065b91b7/<br/>
+Email : anjalipathak016@gmail.com
