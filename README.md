@@ -64,3 +64,19 @@ Client-side
 
 # ER Diagram
 ![DB](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/Manage%20access%20-%20Google%20Chrome%207_31_2022%203_22_32%20PM.png?raw=true)
+
+# Screenshots
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h1.PNG?raw=true)
+Admin/Doctor Login
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h2.PNG?raw=true)
+Admin Dashboard
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h3.PNG?raw=true)
+Doctor Management
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h4.PNG?raw=true)
+Patient Management
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h5.PNG?raw=true)
+Appointment Management 
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h6.PNG?raw=true)
+Schedule 
+![](https://github.com/akshatprogrammer/Doctor_Appointment_System/blob/main/ss/h7.PNG?raw=true)
+Book Appointment
